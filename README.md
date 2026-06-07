@@ -2,7 +2,7 @@
 
 ## 🌸 Overview
 
-This project implements a machine learning classification system for the famous **Iris dataset**. The goal is to build and train models that can accurately classify iris flowers into three species: *Setosa*, *Versicolor*, and *Virginica* based on their physical characteristics.
+This project implements a machine learning classification system for the famous **Iris dataset**. The goal is to build and train models that can accurately classify iris flowers into three species:[...]
 
 ## 📊 Dataset
 
@@ -31,6 +31,7 @@ Each sample is labeled with one of three iris species.
 - **NumPy** - Numerical computing
 - **Matplotlib / Seaborn** - Data visualization
 - **Jupyter Notebook** - Interactive development
+- **Streamlit** - Web application framework
 
 ## 🔧 Installation
 
@@ -109,16 +110,16 @@ Model performance comparison (Accuracy, Precision, Recall, F1-Score):
 
 ## 🚀 Live Link & Deployment
 
-### Jupyter Notebook (Interactive)
-- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hasini-space/iris_classification_project/main)
-
-### Web Application (Coming Soon)
-- Deploy using Streamlit, Flask, or FastAPI for an interactive interface
+### Streamlit Web Application
+- **Live Demo**: [Iris Flower Classification Dashboard](http://localhost:8501/#iris-flower-classification-dashboard)
 
 To deploy locally with Streamlit:
 ```bash
 streamlit run app.py
 ```
+
+### Jupyter Notebook (Interactive)
+- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hasini-space/iris_classification_project/main)
 
 ## 📝 Contributing
 
