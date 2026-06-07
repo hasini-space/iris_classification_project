@@ -108,18 +108,15 @@ Model performance comparison (Accuracy, Precision, Recall, F1-Score):
 - ROC curves and AUC scores
 - Feature importance plots
 
-## 🚀 Live Link & Deployment
+## 🚀 Live Deployment
 
 ### Streamlit Web Application
-- **Live Demo**: [Iris Flower Classification Dashboard](http://localhost:8501/#iris-flower-classification-dashboard)
+- **Live Demo**: [Iris Flower Classification Dashboard](https://irisclassificationproject-gt6g5m57zjvmxn8uwhappgx.streamlit.app/)
 
 To deploy locally with Streamlit:
 ```bash
 streamlit run app.py
 ```
-
-### Jupyter Notebook (Interactive)
-- **Binder**: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hasini-space/iris_classification_project/main)
 
 ## 📝 Contributing
 
